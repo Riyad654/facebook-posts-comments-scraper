@@ -1,0 +1,9 @@
+{
+  "mode": "sample",
+  "sample_file": "data/sample.json",
+  "output_path": "data/output.jsonl",
+  "max_comments": 100,
+  "log_level": "INFO",
+  "request_timeout": 15,
+  "user_agent": "facebook-posts-scraper/1.0 (+https://bitbash.dev)"
+}
